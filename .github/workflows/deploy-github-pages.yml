@@ -40,7 +40,7 @@ env:
   # ###########################################################################
   #
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
-  TXT_APP_NAME: ' HIA GDP25'
+  TXT_APP_NAME: 'Global Dialogue Platform 2025'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
   TXT_APP_LOGO_URL: 'https://www.anticipation-hub.org/typo3conf/ext/bra_projectfiles/Resources/Public/Frontend/1749029987/assets/img/svg/anticipation-hub.svg'
   # The first heading, (only) visible on the main-page
