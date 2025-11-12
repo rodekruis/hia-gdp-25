@@ -92,13 +92,13 @@ env:
   #
   # The URL-part(s) to identify the region
   REGIONS: >-
-    info
+    GDP25
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    Information
+    'Global Dialogue Platform 2025'
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
-    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    1Cc7tAFJw56nPadyw7OmI7zYZs-IqzV29rESVtWv6ho0
 
 # #############################################################################
 #
@@ -173,6 +173,8 @@ jobs:
           NG_PRODUCTION: 'true'
           GOOGLE_SHEETS_API_KEY: ${{ secrets.GOOGLE_SHEETS_API_KEY }}
           GOOGLE_SHEETS_API_URL: 'https://sheets.googleapis.com/v4/spreadsheets'
+          SEARCH_API: 'https://hia-search.azurewebsites.net/search'
+          SEARCH_API_KEY: ${{ secrets.SEARCH_API_KEY }}
 
       - name: Add generic files
         run: 'cp -r ./public/. www/'
