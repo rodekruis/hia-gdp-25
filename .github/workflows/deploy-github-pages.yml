@@ -95,7 +95,7 @@ env:
     en
   # The readable label(s) on the link to the region-page
   REGIONS_LABELS: >-
-    English
+    Main Menu
   # The ID of the Google Sheet(s) that contains the content for the region
   REGIONS_SHEET_IDS: >-
     1Cc7tAFJw56nPadyw7OmI7zYZs-IqzV29rESVtWv6ho0
