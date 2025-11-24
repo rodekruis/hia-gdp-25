@@ -42,7 +42,7 @@ env:
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
   TXT_APP_NAME: 'Global Dialogue Platform 2025'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
-  TXT_APP_LOGO_URL: 'https://rodekruis.sharepoint.com/sites/510-CRAVK-510/_layouts/15/guestaccess.aspx?share=IQBWxmTx9AJjTaTUwHoo0JbXAfPnAL5rn91IWXrrqHmEAGw&e=dWdP7b/gdp_10th_red.png'
+  TXT_APP_LOGO_URL: 'https://drive.google.com/file/d/15UxrAl3s9fzBM15i2wO5YCWeqRQO5Kfy/view?usp=drive_link'
   # The first heading, (only) visible on the main-page
   TXT_MAIN_PAGE_HEADER: ''
   # The (optional) introduction text, (only) visible on the main-page.
