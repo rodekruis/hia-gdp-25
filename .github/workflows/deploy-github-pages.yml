@@ -42,7 +42,7 @@ env:
   # A (short) name, visible in the top (navigation-)bar and in the browser's tab/window-title (and search-engine results)
   TXT_APP_NAME: 'Global Dialogue Platform 2025'
   # An absolute/data-URL to an image, visible in the top (navigation-)bar
-  TXT_APP_LOGO_URL: 'https://drive.google.com/file/d/15UxrAl3s9fzBM15i2wO5YCWeqRQO5Kfy/view?usp=drive_link'
+  TXT_APP_LOGO_URL: 'https://events.anticipation-hub.org/_files/c6df5d7b-07bb-48a5-8e87-55a207901fe6/gdp_10th_red.png'
   # The first heading, (only) visible on the main-page
   TXT_MAIN_PAGE_HEADER: ''
   # The (optional) introduction text, (only) visible on the main-page.
@@ -66,7 +66,7 @@ env:
   #
   # An (optional) footer at the bottom of the screen, can be overwritten on sub-pages per-region by each region's sheet.
   TXT_MAIN_FOOTER: >-
-    **Built with ❤️ by the Netherlands Red Cross**  \n
+    **Built by the Netherlands Red Cross**  \n
     \n
   #
   # Contents of the 'error-page'
